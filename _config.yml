@@ -12,3 +12,5 @@ color:
     - '#3E606F'
     - '#193441'
 name: spanishestate.es
+analytics:
+  google: UA-79819307-1
