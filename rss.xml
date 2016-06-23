@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[spanishestate.es]]></title>
+        <description><![CDATA[spanishestate.es]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 23 Jun 2016 18:32:41 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Expert Mark Stucklin: How the Costa del Sol property market is steaming ahead]]></title>
+            <description><![CDATA[<article><h1>Expert Mark Stucklin: How the Costa del Sol property market is steaming ahead</h1><p>IT'S been a slow train coming, but after seven years of 'la crisis' there are finally some signs of light at the end of the tunnel for the Spanish property market... at least in the best areas of the main cities and prime parts of the coast where foreign buyers tend to buy.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2f2653aacb50c81548b97eaedd3b7a71/noop.jpg?input=http%3A%2F%2Fwww.theolivepress.es%2Fwp-content%2Fuploads%2F2015%2F03%2FMark-Stucklin-graph-2-e1426772526387.jpg"></article>]]></description>
+            <link>http://www.theolivepress.es/spain-news/2015/03/21/expert-mark-stucklin-how-the-costa-del-sol-property-market-is-steaming-ahead/</link>
+            <guid isPermaLink="false">d3131c74-2ce0-4445-a330-4a08d633f2d3</guid>
+            <pubDate>Thu, 23 Jun 2016 18:32:40 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
